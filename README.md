@@ -1,6 +1,6 @@
 # Funds
 
-This Project build on Clean Architecture.
+This project has built on Clean Architecture.
 
 SSMS 19, .Net 6.
 
